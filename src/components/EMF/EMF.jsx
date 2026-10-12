@@ -66,6 +66,10 @@ const highlights = [
     desc: "Built consistent validation and user-facing error feedback across the majority of forms to ensure data integrity and a smooth user experience.",
   },
   {
+    title: "Notification System",
+    desc: "Implemented a notification system to notify users of assigned inquiries and changes in their approval status by push notifications and email.",
+  },
+  {
     title: "Audit Trail",
     desc: "Logged approval and rejection actions system-wide, with a dedicated activity view exposed to superadmin for full operational visibility.",
   },
@@ -93,7 +97,7 @@ const EMF = () => {
           playsInline
         />
         <div className="article-content container">
-          <span className="article-period">Nov 2025 - Present</span>
+          <span className="article-period">Nov 2025 - Aug 2026</span>
           <h1 className="article-title">PT e-Manufaktur</h1>
           <p className="article-role">
             Full Stack Developer &amp; DevOps Engineer
