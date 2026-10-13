@@ -129,7 +129,7 @@ const EMF = () => {
           <div className="article-main">
             <h2>Overview</h2>
             <p>
-              At PT e-Manufaktur, I work as a Full Stack Developer and DevOps
+              At PT e-Manufaktur, i worked as a Full Stack Developer and DevOps
               Engineer building and maintaining the company's internal ERP
               system. The platform handles the complete lifecycle of customer
               inquiries, from initial draft through multi-stage approvals to
