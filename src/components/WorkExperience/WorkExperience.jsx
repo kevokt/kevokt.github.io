@@ -7,7 +7,7 @@ const experiences = [
     id: 1,
     company: "PT e-Manufaktur",
     role: "Full Stack Developer and DevOps Engineer",
-    period: "Nov 2025 - Present",
+    period: "Nov 2025 - Aug 2026",
     description: [
       "Built a company ERP system using Go Languague and React",
       "Set up CI/CD pipelines using GitHub Actions to ensure rapid and reliable delivery of new features and updates.",
